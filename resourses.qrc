@@ -1,0 +1,35 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/all.jpg</file>
+        <file>images/letter_A.png</file>
+        <file>images/letter_B.png</file>
+        <file>images/letter_C.png</file>
+        <file>images/letter_CH.png</file>
+        <file>images/letter_D.png</file>
+        <file>images/letter_E.png</file>
+        <file>images/letter_F.png</file>
+        <file>images/letter_G.png</file>
+        <file>images/letter_H.png</file>
+        <file>images/letter_I.png</file>
+        <file>images/letter_II.png</file>
+        <file>images/letter_JE.png</file>
+        <file>images/letter_K.png</file>
+        <file>images/letter_L.png</file>
+        <file>images/letter_M.png</file>
+        <file>images/letter_N.png</file>
+        <file>images/letter_O.png</file>
+        <file>images/letter_P.png</file>
+        <file>images/letter_R.png</file>
+        <file>images/letter_S.png</file>
+        <file>images/letter_SH.png</file>
+        <file>images/letter_SHI.png</file>
+        <file>images/letter_SPACE.png</file>
+        <file>images/letter_T.png</file>
+        <file>images/letter_U.png</file>
+        <file>images/letter_V.png</file>
+        <file>images/letter_YA.png</file>
+        <file>images/letter_YU.png</file>
+        <file>images/letter_Z.png</file>
+        <file>images/letter_ZNAK.png</file>
+    </qresource>
+</RCC>
